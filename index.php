@@ -30,7 +30,8 @@ $currentDate = date("F j, Y");
 <h1>Welcome to My PHP Website</h1>
 <main>
     <section class="card">
-        <h2>Hello!</h2>
+        <h2>Hi there!</h2>
+        <h3>Welcome to my website</h3>
         <p>
             This page was generated using PHP.
         </p>
