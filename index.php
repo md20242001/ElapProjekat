@@ -25,8 +25,9 @@ $currentDate = date("F j, Y");
         <li><a href="#">Services</a></li>
         <li><a href="#">Contact</a></li>
     </ul>
+    
 </nav>
-
+<h1>Welcome to My PHP Website</h1>
 <main>
     <section class="card">
         <h2>Hello!</h2>
