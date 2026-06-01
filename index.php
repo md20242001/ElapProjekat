@@ -49,7 +49,7 @@ $currentDate = date("F j, Y");
         </ul>
     </section>
 </main>
-
+<h1>Thank you for visiting!</h1>
 <footer>
     <p>&copy; <?php echo date("Y"); ?> My PHP Website</p>
 </footer>
